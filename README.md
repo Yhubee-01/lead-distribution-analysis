@@ -1,2 +1,7 @@
 # sales-data
-this project analyzes 
+## dfsfsgx sdfdff
+- this project analyzes
+- tiyeydued
+- deheeddhgde
+- edejhjgejgc
+- [dashboard screenshot]
