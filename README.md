@@ -4,4 +4,4 @@
 - tiyeydued
 - deheeddhgde
 - edejhjgejgc
-- [dashboard screenshot]
+- [dashboard screenshot](https://github.com/Yhubee-01/sales-data/blob/main/Emerald%20Properties%20Dashboard.png)
