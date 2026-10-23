@@ -23,4 +23,4 @@ This analysis aims to:
 • Evaluate conversion rates by property type 
 • Compare conversion rates based on inspection status (Yes / No) 
 • Identify which segments show relatively higher conversion performance
-## Here's the dashboard screenshot[Dashboard](https://github.com/Yhubee-01/sales-data/blob/main/Screenshot%202026-10-23%20181234.png)
+## Here's the dashboard screenshot[Dashboard]()
