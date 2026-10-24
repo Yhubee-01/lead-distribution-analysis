@@ -59,8 +59,8 @@ The dataset contains lead generation records for the month of July, 2023. It con
 * DAX
 * Data visualization
 
-# Dashboard Preview:
-## Lead Distribution Analysis Dashboard
+## Dashboard Preview:
+# Lead Distribution Analysis Dashboard
 The dashboard presents key lead generation and conversion metrics from the July 2023 dataset, enabling
 stakeholders to monitor performance, identify trends, and make data-driven decisions for future sales and marketing activities.
 
