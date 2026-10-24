@@ -37,7 +37,7 @@ The dataset contains lead generation records for the month of July, 2023. It con
 * Analysis of lead generation and sales performance across different channels.
 * Dashboard development and data visualization.
 
-## Key Business Insights
+## Key Business Insights:
 * A total of 225 leads were generated in July 2023.
 * Female leads accounted for 124(55.1%) of the total lead, compared to 101(44.9%) male customers.
 * Commercial property generated the highest volume of lead, indicating stronger customer interest in this segment. 
@@ -46,13 +46,13 @@ The dataset contains lead generation records for the month of July, 2023. It con
 * Lagos generated a higher lead volume than Rivers state, indicate stronger customer interest in that region.
 * Out of the 225 leads generated, 100 converted into paying customers, giving a conversion rate of 44.44%.
 
-## Business Value
+## Business Value:
 * Built an interactive dashboard that provided management with a centralized view of lead KPIs and  conversion  performance.
 * Identified top-performing and underperforming segments across property types, sales executives, branches and demographics.
 * Supported data-driven decision-making through performance insights.
 * Provided actionable insights into customer engagement and responses across property types and branches.
 * 
-## Tools Used
+## Tools Used:
 * Microsoft Excel
 * Power Query
 * Pivot Tables
@@ -60,10 +60,11 @@ The dataset contains lead generation records for the month of July, 2023. It con
 * Data visualization
 
 # Dashboard Preview:
+Lead Distribution Analysis Dashboard
 The dashboard presents key lead generation and conversion metrics from the July 2023 dataset, enabling
 stakeholders to monitor performance, identify trends, and make data-driven decisions for future sales and marketing activities.
 
 ![Dashboard Preview](Leaddashboard.png)
  
-# Project File
-* [Download Excel work's File](https://github.com/Yhubee-01/lead-distribution-analysis/blob/main/Emerald%20PP%20Ub.xlsx)
+# Project File:
+[Download Excel work's File](https://github.com/Yhubee-01/lead-distribution-analysis/blob/main/Emerald%20PP%20Ub.xlsx)
