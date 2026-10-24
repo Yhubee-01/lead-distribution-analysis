@@ -59,7 +59,7 @@ The dataset contains lead generation records for the month of July, 2023. It con
 
 # Dashboard Preview:
 The dashboard presents key lead generation and conversion metrics from the July 2023 dataset, enabling
-stakeholders to monitor performance, identify trends, and make data-driven decisions for future sales and marketing activities
+stakeholders to monitor performance, identify trends, and make data-driven decisions for future sales and marketing activities.
 
 ![Dashboard Preview](Leaddashboard.png)
  
