@@ -58,6 +58,6 @@ The dataset contains lead generation records for the month of July, 2023. It con
 * Data visualization
 
 ## Dashboard Preview 
-* Here's the dashboard screenshot[Dashboard]()
+* Here's the dashboard screenshot[Dashboard](https://github.com/Yhubee-01/lead-distribution-analysis/blob/main/Screenshot%202026-10-23%20181234.png)
 # Project File
 * Here's the work's file[File](https://github.com/Yhubee-01/lead-distribution-analysis/blob/main/Emerald%20PP%20Ub.xlsx)
