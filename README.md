@@ -60,7 +60,7 @@ The dataset contains lead generation records for the month of July, 2023. It con
 ## Dashboard Preview: The dashboard presents key lead generation and conversion metrics from the July 2023 dataset, enabling
 stakeholders to monitor performance, identify trends, and make data-driven decisions for future sales and marketing activities
 
-* [Lead Distribution Dashboard](Screenshot.png)
+* [Lead Distribution Dashboard](Screenshot2026-10-23181234.png)
  
 # Project File
 * [Download Excel work's File](https://github.com/Yhubee-01/lead-distribution-analysis/blob/main/Emerald%20PP%20Ub.xlsx)
