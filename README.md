@@ -57,7 +57,10 @@ The dataset contains lead generation records for the month of July, 2023. It con
 * DAX
 * Data visualization
 
-## Dashboard Preview 
-* Here's the dashboard screenshot[Dashboard](https://github.com/Yhubee-01/lead-distribution-analysis/blob/main/Screenshot%202026-10-23%20181234.png)
+## Dashboard Preview: The dashboard presents key lead generation and conversion metrics from the July 2023 dataset, enabling
+stakeholders to monitor performance, identify trends, and make data-driven decisions for future sales and marketing activities
+
+* [Dashboard overview]()
+ 
 # Project File
-* Here's the work's file[File](https://github.com/Yhubee-01/lead-distribution-analysis/blob/main/Emerald%20PP%20Ub.xlsx)
+* [Download Excel work's File](https://github.com/Yhubee-01/lead-distribution-analysis/blob/main/Emerald%20PP%20Ub.xlsx)
