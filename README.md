@@ -1,9 +1,10 @@
 # Lead Distribution Analysis
 
-## Project Overview
+## Project Overview:
 This project analyses lead and sales performance data, to evaluate how leads are generated across various channel. The analysis explores lead allocation patterns, conversion trends, and channel performances to uncover insights that can support more effective sales operations and decision-making.
 
-## Problem Statement: Management currently lacks a clear, summarized view of lead-to-sale conversion performance for July 2023.
+## Problem Statement:
+Management currently lacks a clear, summarized view of lead-to-sale conversion performance for July 2023.
 Specifically: 
 * The overall conversion rate for the month is not clearly calculated or reported 
 * Conversion performance across sales executives is unclear 
@@ -15,7 +16,8 @@ without this clarity, management cannot:
 * Compare conversion performance across teams and locations 
 * Identify patterns linked to stronger conversion outcomes 
 
-## Analysis Objectives: The objective of this analysis is to calculate, visualize, and compare conversion rates for July 2023 and highlight patterns associated with higher conversion. This analysis aims to: 
+## Analysis Objectives:
+The objective of this analysis is to calculate, visualize, and compare conversion rates for July 2023 and highlight patterns associated with higher conversion. This analysis aims to: 
 * Calculate the overall lead-to-sale conversion rate 
 * Compute conversion rates by sales executive 
 * Compare conversion rates by gender 
@@ -24,7 +26,7 @@ without this clarity, management cannot:
 * Compare conversion rates based on inspection status (Yes / No) 
 * Identify which segments show relatively higher conversion performance
 
-## Dataset Description
+## Dataset Description:
 The dataset contains lead generation records for the month of July, 2023. It consist of customer demographic information and sales-related data, including customer ID, gender, assigned sales representatives, sales status, state, property type and inspection status. The dataset was used to analyse lead generation and sales performance across different channels and regions.
 
 ## Methodology: 
